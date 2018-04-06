@@ -1,2 +1,4 @@
 #!/bin/bash
 echo "Hello this is to test my jenkins knowledge"
+echo "I think i am done"
+
